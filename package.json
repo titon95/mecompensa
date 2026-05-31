@@ -8,10 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+    "dependencies": {
     "next": "^16.2.6",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "@vercel/analytics": "^1.4.1"
+    "@vercel/analytics": "^1.4.1",
+    "@vercel/speed-insights": "^1.1.0"
+  }
+    
   }
 }
