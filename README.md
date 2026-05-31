@@ -36,3 +36,4 @@ Y abrir http://localhost:3000 en el navegador.
 Pero tranquilo: para PUBLICARLA en internet NO hace falta nada de esto. Eso lo
 haremos subiéndola a la nube, y yo te guío clic a clic.
 <!-- analytics activado -->
+<!-- deploy -->
