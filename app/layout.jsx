@@ -1,4 +1,5 @@
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata = {
   title: "MeCompensa.es — ¿Te compensan las placas solares?",
@@ -12,6 +13,7 @@ export default function RootLayout({ children }) {
       <body style={{ margin: 0 }}>
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
